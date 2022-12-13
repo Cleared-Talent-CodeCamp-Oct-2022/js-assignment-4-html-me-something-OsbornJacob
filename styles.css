@@ -26,7 +26,7 @@ h2>img{
       margin-left: 9px;
   }
   
-  h4>img{
+  article>img{
       width: 8%;
       height: 8%;
   }
@@ -35,4 +35,8 @@ h2>img{
   }
   .dog1{
       color: orangered;
+  }
+  footer{
+    background-color: darkolivegreen;
+    color: cornsilk;
   }
