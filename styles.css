@@ -5,21 +5,19 @@ h2>img{
   p{
       padding-top: 1%;
       padding-left: 50%;
-      color:rgb(19, 231, 44);
       background-color: deeppink;
-      
-  }
+    }
   html{
       background-color: darksalmon;
   }
-  h3>img{
+  h1>img{
       width: 16%;
       height: 16%;
       float: right;
       float: left;
       
   }
-  h3{
+  h1{
       margin-top: 50px;
       margin-bottom: 200px;
       margin-right: 100px;
@@ -39,4 +37,14 @@ h2>img{
   footer{
     background-color: darkolivegreen;
     color: cornsilk;
+  }
+  .funParagraph{
+    color: green;
+  }
+  #mainHeading{
+    color: red;
+  }
+  body{
+    margin: 8px;
+    display: block;
   }
